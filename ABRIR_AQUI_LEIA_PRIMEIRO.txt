@@ -1,0 +1,17 @@
+FARMTECH ASSISTENTE AGRICOLA INTELIGENTE
+
+Para rodar o projeto:
+1. Extraia o ZIP.
+2. Clique em INICIAR_PROJETO.bat.
+3. Escolha a opcao 1.
+4. Aguarde a geracao dos dados, banco SQLite, modelos e recomendacoes.
+5. O dashboard Streamlit sera aberto no navegador.
+
+Para entender a entrega:
+- PDF: docs/relatorio_farmtech_ai_regressor.pdf
+- Mapa dos criterios: docs/MAPA_CRITERIOS_PROFESSOR.md
+- Roteiro de video: docs/GUIA_VIDEO_5_MINUTOS.md
+- Banco SQLite: database/farmtech_ai.db
+- Dashboard: src/dashboard.py
+- Modelos: models/
+- Metricas: outputs/metricas_modelos.csv
